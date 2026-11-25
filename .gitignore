@@ -1,0 +1,13 @@
+# Video files
+*.mp4
+
+# Generated frames
+frames/
+annotated_frames/
+
+# YOLO labels and generated outputs
+labels/
+
+# Python cache
+__pycache__/
+*.pyc
